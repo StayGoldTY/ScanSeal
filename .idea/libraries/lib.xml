@@ -1,0 +1,58 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lib/apache-ant-zip-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/asm-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/bcpkix-jdk15on-150.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/bcprov-jdk15on-150.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/beetl-2.2.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/cglib-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/closure-compiler-v20160911.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/commons-fileupload-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/commons-httpclient-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/commons-io-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/cos-26Dec2008.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/cxf-2.1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/druid-1.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/ehcache-core-2.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/ehcache-core-2.6.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/fastjson-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/fastjson-1.2.73.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/guava-jdk5-17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/httpclient-4.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/httpcore-4.4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/javax.servlet-api-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jaxen-1.1-beta-6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jfinal-2.2-bin-with-src.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/kgbc-jdk15on-150.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/logback-access-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/logback-classic-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/logback-core-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/mysql-connector-java-5.1.24-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/neethi-2.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/slf4j-api-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/slf4j-api-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/slf4j-log4j12-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/wsdl4j-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/xml-apis-1.0.b2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/xml-resolver-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/XmlSchema-1.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/xmlsec-1.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/httpmime-4.3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/slf4j-nop-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/slf4j-simple-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/iSignature_OFD_API_V2.0.0.174.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/iSignature_PDF_API_V6.0.0.752.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/pdfviewer-3.2.0.386.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../lib/closure-compiler-v20160911.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jfinal-2.2-bin-with-src.jar!/" />
+    </SOURCES>
+  </library>
+</component>

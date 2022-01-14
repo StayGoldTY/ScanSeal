@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="signature">
+    <output-path>$PROJECT_DIR$/classes/artifacts/signature</output-path>
+    <root id="archive" name="signature.war">
+      <element id="artifact" artifact-name="demo:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
